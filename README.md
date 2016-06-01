@@ -1,4 +1,7 @@
-# Motivasi Sukses
+# Tugas-TKPPL
+Repo ini di gunakan untuk menyelesaikan kebutuhan TKKPL
+
+# Judul : Motivasi Sukses
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
 ## View slides locally
